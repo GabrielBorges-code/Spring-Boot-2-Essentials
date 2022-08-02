@@ -1,6 +1,7 @@
 <h1>Spring Boot 2 Essentials - DevDojo</h1>
 
 <p>Curso de Spring Boot Essencial realizado no canal do YouTube <a href="https://www.youtube.com/watch?v=bCzsSXE4Jzg&list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H&index=1" target="_blank" rel="noopener noreferrer">DevDojo</a>.</p>
+
 <p>No curso foi abordado diversos temas como:</p>
 
 <ul>
